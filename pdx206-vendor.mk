@@ -1978,3 +1978,9 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3-service-qti \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.qti.gnss@4.0-service
+
+PRODUCT_PACKAGES += \
+    bdwlan_bdwlan_symlink \
+    bdwlan_bdwlan_symlink_1 \
+    bdwlan_bdwlan_symlink_2 \
+    regdb_regdb_symlink
